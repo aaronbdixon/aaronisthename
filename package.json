@@ -1,0 +1,8 @@
+{
+  "name": "aaronisthe.name",
+  "description": "The ramblings of a tech journeyman",
+  "version": "0.0.1",
+  "engines": {
+    "node": "0.10.x"
+  }
+}
