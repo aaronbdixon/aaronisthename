@@ -1,8 +1,26 @@
 {
-  "name": "aaronisthe.name",
-  "description": "The ramblings of a tech journeyman",
+  "name": "aaronisthename",
   "version": "0.0.1",
+  "description": "The ramblings of a tech journeyman",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/EvolveSeven/aaronisthename.git"
+  },
+  "author": "Aaron Dixon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvolveSeven/aaronisthename/issues"
+  },
+  "homepage": "https://github.com/EvolveSeven/aaronisthename",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^4.8.3"
+  },
   "engines": {
     "node": "0.10.x"
-  }
+  }}
 }
