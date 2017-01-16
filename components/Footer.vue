@@ -1,5 +1,5 @@
 <template>
   <footer>
-    Visit our website for more documentation : <a href="https://nuxtjs.org" target="_blank">nuxtjs.org</a>
+    Twitter: <a href="https://twitter.com/aaronbdixon">@aaronbdixon</a>
   </footer>
 </template>
