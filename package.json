@@ -1,18 +1,9 @@
 {
   "name": "aaronisthename",
-  "version": "0.0.1",
-  "description": "The ramblings of a tech journeyman",
-  "main": "app.js",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/EvolveSeven/aaronisthename.git"
-  },
-  "author": "Aaron Dixon",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/EvolveSeven/aaronisthename/issues"
-  },
-  "homepage": "https://github.com/EvolveSeven/aaronisthename",
+  "version": "1.0.0",
+  "description": "Personal site for Aaron Dixon",
+  "author": "Aaron Dixon <aaronbdixon@gmail.com>",
+  "private": true,
   "dependencies": {
     "nuxt": "latest"
   },
