@@ -1,7 +1,7 @@
 {
   "name": "aaronisthename",
   "version": "1.0.0",
-  "description": "Personal site for Aaron Dixon",
+  "description": "Thoughts of a Tech Journeyman",
   "author": "Aaron Dixon <aaronbdixon@gmail.com>",
   "private": true,
   "dependencies": {
@@ -10,13 +10,7 @@
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
-    "generate": "nuxt generate",
-    "start": "nuxt build && nuxt start"
-  },
-  "cacheDirectories": [
-    "nuxtjs/node_modules"
-  ],
-  "engines": {
-    "node": "6.9.1"
+    "start": "nuxt build && nuxt start",
+    "generate": "nuxt generate"
   }
 }
