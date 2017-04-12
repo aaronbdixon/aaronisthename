@@ -1,0 +1,81 @@
+html {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background: transparent url("../img/background.jpg") no-repeat center center fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+}
+
+nav {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 10px 0;
+}
+
+nav button {
+  float: right;
+  margin: 0 10px;
+  background-color: rgba(255, 255, 255, .1);
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  padding: 7px 10px;
+}
+
+nav button:hover {
+  color: #000;
+  background-color: rgba(255,255,255,.8);
+}
+
+header {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: rgba(0, 0, 0, .6);
+  position: relative;
+}
+
+#cta {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  width: 80%;
+  height: 50%;
+}
+
+#cta .logo {
+  
+  margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+  #cta {
+      width: 50%;
+  }
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+footer .addthis_inline_follow_toolbox {
+  display: inline-block;
+}
