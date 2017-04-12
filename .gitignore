@@ -4,11 +4,9 @@ node_modules
 # logs
 npm-debug.log
 
-# Nuxt build
-.nuxt
-
-# Nuxt generate
+# Build artifacts
 dist
+_site
 
 # IDE settings
 .idea
